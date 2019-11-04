@@ -1,0 +1,11 @@
+*.log
+*_sum.txt
+log.html
+output.xml
+report.html
+selenium-screenshot-*.png
+chromedriver
+.pabotsuitenames
+pabot_results/
+__pycache__
+moonmath.png
